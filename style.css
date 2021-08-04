@@ -1,0 +1,150 @@
+body{
+height: 37.5rem;
+  font-size: 15px;
+  color: hsl(0, 0%, 95%);
+  line-height: 2;
+  font-family: 'Lexend Deca', sans-serif;
+  min-width: 375px;
+  max-width: 1440px;
+  margin: 100px auto 100px;
+
+
+
+}
+h1{
+  text-transform: uppercase ;
+font-family: 'Lexend Deca', sans-serif;
+font-size: 40px;
+margin: 10px 0 0 0;
+}
+p{
+  position:relative;
+  font-Weight:100px;
+  margin:0 ;
+
+
+}
+.container{
+
+  text-align: left;
+  position: relative;
+}
+.row1{
+position:absolute;
+top: 60px;
+left: 320px;
+  background-color: hsl(31, 77%, 52%);
+  height: 400px;
+  width: 200px;
+    padding: 40px;
+    border-radius: 5px 0 0 5px;
+
+}
+.btn1 {
+  background:  hsl(0, 0%, 95%);
+  background-image: -webkit-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -moz-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -ms-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -o-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: linear-gradient(top bottom,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(31, 77%, 52%);
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top:70px;
+
+
+}
+
+.btn1:hover {
+  background: hsl(31, 77%, 52%);
+  background-image: -webkit-linear-gradient(top, hsl(31, 77%, 52%), hsl(31, 77%, 52%));
+  background-image: -moz-linear-gradient(top, hsl(31, 77%, 52%), hsl(31, 77%, 52%));
+  background-image: -ms-linear-gradient(top, hsl(31, 77%, 52%), hsl(31, 77%, 52%));
+  background-image: -o-linear-gradient(top, hsl(31, 77%, 52%), hsl(31, 77%, 52%));
+  background-image: linear-gradient(top bottom, hsl(31, 77%, 52%), hsl(31, 77%, 52%));
+  text-decoration: none;
+}
+.row2{
+  position: absolute;
+  left: 600px;
+  top: 60px;
+  background-color: hsl(184, 100%, 22%);
+  height: 400px;
+  width: 200px;
+    padding: 40px;
+    margin: 0 auto 0 auto;
+
+}
+.btn2 {
+  background:  hsl(0, 0%, 95%);
+  background-image: -webkit-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -moz-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -ms-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -o-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: linear-gradient(top bottom,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(184, 100%, 22%);
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top:40px;
+
+}
+
+.btn2:hover {
+  background: hsl(184, 100%, 22%);
+  background-image: -webkit-linear-gradient(top, hsl(184, 100%, 22%), hsl(184, 100%, 22%));
+  background-image: -moz-linear-gradient(top, hsl(184, 100%, 22%), hsl(184, 100%, 22%));
+  background-image: -ms-linear-gradient(top, hsl(184, 100%, 22%), hsl(184, 100%, 22%));
+  background-image: -o-linear-gradient(top, hsl(184, 100%, 22%), hsl(184, 100%, 22%));
+  background-image: linear-gradient(top bottom, hsl(184, 100%, 22%),hsl(184, 100%, 22%));
+  text-decoration: none;
+}
+.row3{
+  position: absolute;
+  left:880px;
+    top: 60px;
+  background-color: hsl(179, 100%, 13%);
+  height: 400px;
+  width: 200px;
+  padding: 40px;
+    border-radius: 0 5px 5px 0;
+
+}
+.btn3 {
+  background:  hsl(0, 0%, 95%);
+  background-image: -webkit-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -moz-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -ms-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: -o-linear-gradient(top,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  background-image: linear-gradient(top bottom,  hsl(0, 0%, 95%),  hsl(0, 0%, 95%));
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: hsl(179, 100%, 13%);
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top:70px;}
+
+.btn3:hover {
+  background: hsl(179, 100%, 13%);
+  background-image: -webkit-linear-gradient(top, hsl(179, 100%, 13%), hsl(179, 100%, 13%));
+  background-image: -moz-linear-gradient(tp, hsl(179, 100%, 13%), hsl(179, 100%, 13%));
+  background-image: -ms-linear-gradient(top, hsl(179, 100%, 13%),hsl(179, 100%, 13%));
+  background-image: -o-linear-gradient(top, hsl(179, 100%, 13%),hsl(179, 100%, 13%));
+  background-image: linear-gradient(top bottom, hsl(179, 100%, 13%), hsl(179, 100%, 13%));
+  text-decoration:none;
+}
